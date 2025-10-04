@@ -1,34 +1,29 @@
-Welcome to the IT110 class.   
+# IT110 - Computer Programming (Fall 2025)
 
-After reading this page, please click on the Modules page link in the left navigation area to begin.  The activity calendar can be located in the Syllabus menu in the same navigation area. 
+## Course Information
 
-===================================================================
+Welcome to IT110 - Computer Programming! This repository contains all programming exercises and assignments for the course.
 
-A Little About Me: My name is Peter Udo. I am your instructor for the course. This is my third year here at Yakima College. I joined YVCC in September of 2022. Prior to YVCC, I taught in a number of higher institutions in North Carolina.  One of them is North Carolina Agricultural & Technical State University, where I served in various capacities such as Professor and Technology Manager. Another is Virginia College, where I served as the Head of Department/Director of Network Engineering Technology. I also had the opportunity to work with various organizations, including Dell Computers (Dell America Operations in the Piedmont Triad of NC) & AT&T.
+## Getting Started
 
-I hold at least six IT certifications, including Microsoft Windows Administration, Azure  AI Engineering, Cisco Network Administration, Cybersecurity, CompTIA A+, CompTIA Network+, CompTIA Security+, Linux+. My goal is to ensure that you get the most out of this class.
+1. Navigate to the Modules page to begin course materials
+2. Review the activity calendar in the Syllabus menu
+3. Clone this repository to your local machine to work on assignments
 
-Included on this page is a copy of your syllabus (See attachment) for the course, as well as 'College Resources' to help you navigate the learning process in the class and the college in general. To get the most out of this class, be sure to read both materials thoroughly and utilize every resource made available for you to succeed. Be sure to click on the links provided below to see the details of resources available to you.
+## Course Resources
 
- 
+- [Syllabus](link-to-syllabus)
+- [AI Policy Addendum](link-to-ai-policy)
 
-Link to syllabus
+## Technical Support
 
-AI Policy: Syllabus Addendum
+For technical issues with the learning management system or other campus technology:
+- Email: helpdesk@yvcc.edu
+- Phone: (509) 574-4717
 
-COLLEGE RESOURCES
+## Academic Support
 
-Specialists in various departments at YVC are available to assist you!
-
-This class is part of the Workforce Education (WED) Division and which has staff in the first floor of the Technology Complex (building 24, room 100) that can assist students in locating an office or specialist. Please feel free to visit in person (if buildings are open) or email/call staff:
-
-The Program Coordinator is Brittni Packard ((509) 574-6810, bpackard@yvcc.edu)
-
-The Secretary Senior for the WED Dean is Dianna (dgadley@yvcc.edu, 509-509-4753)
-
-Campus Tech Services: Contact 509.574.4717 or send an email to helpdesk@yvcc.edu.
-
- 
+For academic questions or concerns, please contact your instructor through the course messaging system.
 
 Please review the information at the website https://www.yvcc.edu/services/current/Links to an external site.
 
