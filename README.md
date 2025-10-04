@@ -12,8 +12,8 @@ Welcome to IT110 - Computer Programming! This repository contains all programmin
 
 ## Course Resources
 
-- [Syllabus](link-to-syllabus)
-- [AI Policy Addendum](link-to-ai-policy)
+- [Syllabus](https://yvcc.instructure.com/courses/2654319/files?preview=287962184)
+- [AI Policy Addendum](https://yvcc.instructure.com/courses/2654319/files?preview=287958856)
 
 ## Technical Support
 
@@ -28,8 +28,6 @@ For academic questions or concerns, please contact your instructor through the c
 Please review the information at the website https://www.yvcc.edu/services/current/Links to an external site.
 
  to be sure of what resources are available and how they are available before visiting campus. The website contains links and details to several resources available to you as a student at YVC.
-
- 
 
 Financial Aid: https://www.yvcc.edu/financial-aid/contact/Links to an external site.
 
@@ -51,8 +49,6 @@ Canvas tutorial and eLearning resources: https://www.yvcc.edu/academics/online-l
 Contact information: https://www.yvcc.edu/services/help-desk/Links to an external site.
 Tutoring Center: https://www.yvcc.edu/services/tutoring-center/Links to an external site.
 
- 
-
 ==================================================================
 
 Don't hesitate to contact your instructor for guidance if you have questions about the course content.  You can email your instructor by choosing Inbox in the gray navigation bar to the left of this message.  Then follow these steps:
@@ -65,4 +61,3 @@ For help getting started with Canvas, visit the Student Success Center to the le
 
 Thank you,
 YVC Canvas eLearning Office
-elearning@yvcc.edu
