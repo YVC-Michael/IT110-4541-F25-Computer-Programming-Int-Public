@@ -4,19 +4,23 @@
 ### for the length and width of two rectangles. The program should tell the user which rectangle
 ### has the greater area, or if the areas are the same.
 
+#Input (First rectangle)
 print('Enter the length of the first rectangle: ')
 rectangle_1_length = float(input())
 print('Enter the width of the first rectangle: ')
 rectangle_1_width = float(input())
 
+#Input (Second rectangle)
 print('Enter the length of the second rectangle: ')
 rectangle_2_length = float(input())
 print('Enter the width of the second rectangle: ')
 rectangle_2_width = float(input())
 
+#Math (The area of a rectangle is the rectangle’s length times its width)
 rectangle_1_area = rectangle_1_length * rectangle_1_width
 rectangle_2_area = rectangle_2_length * rectangle_2_width
 
+#If-Elif-Else
 if rectangle_1_area > rectangle_2_area:
     print(f'The first rectangle has the greater area: {rectangle_1_area:.2f}')
 elif rectangle_1_area < rectangle_2_area:
