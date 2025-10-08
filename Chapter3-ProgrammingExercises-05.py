@@ -24,10 +24,10 @@ weight_object = mass_object * FORMULA_MULTIPLIER
 #If-Elif-Else
 # Error Messages (Too Light/Heavy)
 if weight_object < WEIGHT_MIN:
-    print(f'Error: Object weighs {weight_object} newtons, which is too light.')
+    print(f'Error: Object weighs {weight_object:.2f} newtons, which is too light.')
 elif weight_object > WEIGHT_MAX:
-    print(f'Error: Object weighs {weight_object} newtons, which is too heavy.')
+    print(f'Error: Object weighs {weight_object:.2f} newtons, which is too heavy.')
 
 # Output (Normal Weight)
 else:
-    print(f'Object weighs {weight_object} newtons.')
+    print(f'Object weighs {weight_object:.2f} newtons.')
