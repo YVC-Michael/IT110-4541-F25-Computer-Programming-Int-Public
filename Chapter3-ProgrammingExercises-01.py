@@ -32,5 +32,7 @@ elif day_user == DAY_SATURDAY:
     print('Saturday')
 elif day_user == DAY_SUNDAY:
     print('Sunday')
+
+#Error Message
 else:
     print('Error: You entered a number that is outside the range of 1 through 7')
