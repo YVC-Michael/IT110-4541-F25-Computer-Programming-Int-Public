@@ -19,7 +19,7 @@ turtle.penup()
 turtle.goto(0, 0)
 turtle.pendown()
 
-if turtle_user_x >= 100 and turtle_user_y <= 200:
+if turtle_user_x >= 100 and turtle_user_x <= 200 and turtle_user_y >= 100 and turtle_user_y <= 200:
     turtle.hideturtle()
     turtle.done()
 else:
