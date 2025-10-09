@@ -15,12 +15,16 @@ turtle.goto(100, 100)
 turtle_user_x = int(input('Give me an x coordinate: '))
 turtle_user_y = int(input('Give me a y coordinate: '))
 
+turtle.hideturtle()
 turtle.penup()
 turtle.goto(0, 0)
+turtle.showturtle()
 turtle.pendown()
 
 if turtle_user_x >= 100 and turtle_user_x <= 200 and turtle_user_y >= 100 and turtle_user_y <= 200:
+    turtle.goto(turtle_user_x, turtle_user_y)
     turtle.hideturtle()
     turtle.done()
 else:
+    turtle.goto(turtle_user_x, turtle_user_y)
     turtle.done()
