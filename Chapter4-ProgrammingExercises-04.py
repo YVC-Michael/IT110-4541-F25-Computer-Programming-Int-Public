@@ -16,14 +16,18 @@
 # 3     120
 
 # User Description
+print()
 print("This program will calculate the distance a vehicle travels based on speed and time.")
+print()
 
 # Get user input for speed and time
 speed = int(input("Enter the speed of the vehicle in mph: "))
 time = int(input("Enter the number of hours the vehicle has traveled: "))
 
 # Calculate and display distance traveled for each hour
-print("Hour\tDistance Traveled")
+print()
+print("Hour\tDistance Traveled (Miles)")
 for hour in range(1, time + 1):
     distance = speed * hour
-    print(f"{hour}\t{distance:>10}")
+    print(f"{hour}\t{distance:>16}")
+print()

@@ -6,7 +6,9 @@
 ### display the total number of bugs collected.
 
 # User Description
+print()
 print("This program will calculate the total number of bugs collected over 5 days.")
+print()
 
 # Initialize total bugs to 0
 total_bugs = 0
@@ -17,4 +19,6 @@ for iteration in range(5):
     total_bugs += collected_bugs
 
 # Display total bugs collected
+print()
 print(f'The total number of bugs collected over 5 days is: {total_bugs}')
+print()
