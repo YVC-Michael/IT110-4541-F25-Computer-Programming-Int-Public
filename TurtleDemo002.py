@@ -8,6 +8,7 @@ COLORS = ['red', 'blue', 'green', 'yellow', 'purple', 'orange'] # List of colors
 
 #Loop
 for x in range(NUM_CIRCLES):
+    turtle.speed(0)
     turtle.color(COLORS[x % len(COLORS)], COLORS[x % len(COLORS)])
     turtle.begin_fill()
     turtle.circle(RADIUS)
