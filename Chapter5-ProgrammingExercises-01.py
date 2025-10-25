@@ -8,24 +8,21 @@
 # Constants
 KILOMETERS_TO_MILES = 0.6214
 
+# Function to convert kilometers to miles
 def convert_to_miles(kilometers):
     miles = kilometers * KILOMETERS_TO_MILES
     return miles
 
+# Function to display results
 def display_results(kilometers, miles):
-    print()
-    print(f"{kilometers:.3f} kilometers is approximately {miles:.3f} miles.")
-    print()
+    print(f"\n{kilometers:.3f} kilometers is approximately {miles:.3f} miles.\n")
 
-# User Engagement
-print()
-print("This program will convert kilometers to miles to the nearest thousandth.")
-print()
-kilometers = float(input("Enter a distance in kilometers: "))
-print()
+# Get user input
+print("\nThis program will convert kilometers to miles to the nearest thousandth.")
+kilometers = float(input("\nEnter a distance in kilometers: "))
 
-# Convert kilometers to miles
+# Call function to convert kilometers to miles
 miles = convert_to_miles(kilometers)
 
-# Display miles
+# Call function to display results
 display_results(kilometers, miles)

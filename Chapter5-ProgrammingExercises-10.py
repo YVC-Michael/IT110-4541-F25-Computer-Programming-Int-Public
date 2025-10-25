@@ -20,7 +20,7 @@ def get_user_input():
 
 # Function to display results
 def display_results(feet, inches):
-    print(f"\nThe number of inches in {feet} feet is: {inches}")
+    print(f"\nThe number of inches in {feet} feet is: {inches:,.2f}")
 
 # Program Execution
 feet = get_user_input()

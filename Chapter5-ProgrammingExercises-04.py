@@ -8,8 +8,8 @@
 # Named Constants
 MONTHS_IN_YEAR = 12
 
-# User Engagement
-def get_values():
+# Function to get user input
+def get_prices():
     print()
     print("This program will calculate the total monthly cost of these expenses,")
     print("and the total annual cost of these expenses.")
@@ -22,13 +22,13 @@ def get_values():
     maintenance = float(input("Enter the monthly maintenance: "))
     return loan_payment, insurance, gas, oil, tires, maintenance
 
-# Calculate total monthly and annual cost
+# Function to calculate total monthly and annual cost
 def calculate_cost(loan_payment, insurance, gas, oil, tires, maintenance):
     monthly_cost = loan_payment + insurance + gas + oil + tires + maintenance
     annual_cost = monthly_cost * MONTHS_IN_YEAR
     return monthly_cost, annual_cost
 
-# Display results
+# Function to display results
 def display_results(monthly_cost, annual_cost):
     print()
     print(f"The total monthly cost of these expenses is: ${monthly_cost:,.2f}")
@@ -36,7 +36,7 @@ def display_results(monthly_cost, annual_cost):
     print()
 
 # Call function for monthly costs
-loan_payment, insurance, gas, oil, tires, maintenance = get_values()
+loan_payment, insurance, gas, oil, tires, maintenance = get_prices()
 
 # Call function for monthly and annual cost
 monthly_cost, annual_cost = calculate_cost(loan_payment, insurance, gas, oil, tires, maintenance)
