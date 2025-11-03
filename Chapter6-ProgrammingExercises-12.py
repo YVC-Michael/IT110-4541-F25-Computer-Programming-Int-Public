@@ -13,7 +13,8 @@
 ### steps taken for each month. (The data is from a year that was not a leap year, so February
 ### has 28 days.)
 
-# Hint/suggestion: for question number #12, assign months to named constants. Then, your write your program to pull from it to match and display the data from steps.txt file.
+# Hint/suggestion: for question number #12, assign months to named constants.
+# Then, your write your program to pull from it to match and display the data from steps.txt file.
 
 # Named constants
 JAN_DAYS = 31
