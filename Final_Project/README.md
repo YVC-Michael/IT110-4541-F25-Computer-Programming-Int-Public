@@ -5,22 +5,6 @@ Choose one of the following options (1–3) to complete for your final project.
 
 ---
 
-## Final Project Option 1: Population Data for YakYakEminent Technologies, Inc.
-
-- **Focus:** CRUD (create, read, update, delete) database operations (see Chapter 14, pp. 766–773).
-- **Purpose:** Practice database programming in a real-world scenario.
-- **Scenario:** Marcelo and Julia, proprietors of YakEminent Technologies, plan to expand to Yakima, WA. They need insight into current population data across their global locations to evaluate Yakima’s potential ROI.
-- **Task:**
-  - Build a Python program modeled after Chapter 14, Program Exercise 2.
-  - Create a SQLite database named `yakimabranch.db` with a `YakVisitors` table (similar to `Entries` in `phonebook.db`) containing columns for a person’s name and phone number.
-  - Implement CRUD features that let users add, look up, update, and delete visitor records.
-  - Prepare a presentation for the software-judge panel (see the Presentation section below).
-- **Hint:** [Getting started with the population database problem](https://mediaplayer.pearsoncmg.com/assets/_video.true/secs-getting-started-with-the-population-database-problem).
-- **Criteria:** Refer to `ProjRubric` and the accompanying Presentation Criteria sheet.
-- **Bonus:** Earn an additional 5 points for completing this option.
-
----
-
 ## Final Project Option 2: Emil Kissel Park Cookout List Updater
 
 - **Purpose:** Practice list methods along with decision and repetition structures.
